@@ -108,9 +108,16 @@ a:hover, a:link {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-.headshot {
-	text-align: center;
+.headshot{
+	float: none;
 	margin: 0 auto;
+	width: 50%;
+}
+
+.vino {
+	margin: 0 auto;
+	width:100%;
+	height: auto;
 }
 
 .text {
@@ -120,11 +127,14 @@ a:hover, a:link {
 }
 
 
-#linkedin {
- 	text-align: center;
+.linkedin {
+ 	float: none;
+	margin: 0 auto;
+	width: 50%;
 }
 
 .social {
-	width: 300px;
-	height: 100px;
+	margin: 0 auto;
+	width:100%;
+	height: auto;
 }

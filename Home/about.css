@@ -109,8 +109,15 @@ a:hover, a:link {
 }
 
 .headshot {
-	text-align: center;
+	float: none;
 	margin: 0 auto;
+	width: 50%;
+}
+
+.rhody {
+	margin: 0 auto;
+	width:100%;
+	height: auto;
 }
 
 .text {
